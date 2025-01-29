@@ -16,7 +16,7 @@ The analysis is based on the [Social Media Sentiments Analysis Dataset](https://
 - Identification of most common terms and themes across platforms
 - Comparative analysis between different social media sources
 
-### 2. Sentiment Analysis
+### 2. Sentiment Analysis with TextBlob
 - Classification of content sentiment (positive, negative, neutral)
 - Emotional tone analysis
 - Platform-specific sentiment patterns
@@ -37,6 +37,7 @@ The analysis is based on the [Social Media Sentiments Analysis Dataset](https://
 - NLTK and SpaCy for NLP tasks
 - FastText for text classification
 - WordCloud for visualization
+- TextBlob for sìsentiment analysis
 - Pandas for data manipulation
 - Matplotlib/Seaborn for data visualization
 
